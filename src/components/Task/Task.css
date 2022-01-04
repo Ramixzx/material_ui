@@ -1,0 +1,17 @@
+.task-card {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.task-title {
+    padding: 15px;
+}
+.task-delete {
+    margin: 15px;
+}
+.no-tasks {
+    text-align: center;
+    padding-top: 20px;
+}
