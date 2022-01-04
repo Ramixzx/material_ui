@@ -1,8 +1,8 @@
-import ToDoList from './components/ToDoList';
+import Tasks from './components/Tasks';
 
 function App() {
   return (
-    <ToDoList />
+    <Tasks />
   );
 }
 
